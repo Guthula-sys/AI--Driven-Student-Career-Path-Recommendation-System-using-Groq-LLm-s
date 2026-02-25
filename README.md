@@ -31,9 +31,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
-Hema Sri Devi Guthula
+Hema Sri Devi, Priya, Phani
 
 ## 📜 License
 
