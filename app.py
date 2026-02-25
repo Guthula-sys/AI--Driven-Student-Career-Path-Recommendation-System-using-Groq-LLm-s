@@ -105,7 +105,7 @@ df.columns = df.columns.str.strip().str.lower()
 
 # ================= GROQ CLIENT =================
 
-
+client = Groq(api_key="your_ApIKey_here")
 
 # ================= PROMPTS =================
 
@@ -513,3 +513,4 @@ elif menu == "Get Recommendation":
     else:
 
         st.warning("Fill all details first ⚠")
+
